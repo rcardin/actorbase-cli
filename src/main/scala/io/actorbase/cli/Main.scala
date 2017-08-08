@@ -33,7 +33,7 @@ import org.springframework.shell.Bootstrap
   * @version 1.0
   * @since 1.0
   */
-class Main {
+object Main {
   def main(args: Array[String]): Unit = {
     Bootstrap.main(args)
   }
